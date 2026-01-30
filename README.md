@@ -6,7 +6,7 @@ Module Lead Quality Engineer
 
 AI Automation Tester
 
-* 🌍  I'm based in Pune
+* 🌍  I'm based in Pune, India
 * 🖥️  See my portfolio at [LinkedIN](http://google.com)
 * ✉️  You can contact me at [pratikraut3308@gmail.com](mailto:pratikraut3308@gmail.com)
 * 🚀  I'm currently working on [Playwright AI Automation](http://google.com)
