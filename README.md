@@ -1,120 +1,126 @@
-<h1 align="center">Hi 👋, I'm Pratik Raut</h1>
-<h3 align="center">Module Lead | Quality Engineer | AI Automation Tester</h3>
+<h1 align="center">Pratik Raut</h1>
+<h3 align="center">AI Automation Architect | Module Lead – Quality Engineering</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="120"/>
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="140"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
+  <strong>Engineering Quality. Scaling Automation. Infusing AI.</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Leadership-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:pratikraut3308@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Hire%20Me-critical?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://github.com/pratikraut840">
-    <img src="https://img.shields.io/github/followers/pratikraut840?label=Follow&style=for-the-badge"/>
+    <img src="https://img.shields.io/github/followers/pratikraut840?style=for-the-badge"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Who I Am
 
-- 🌍 **Location:** Pune, India  
-- 🧠 **Role:** Module Lead – Quality Engineering  
-- 🤖 **Specialization:** AI-Driven Test Automation  
-- 🚀 **Currently Working On:** Playwright + AI Automation Frameworks  
-- 📚 **Currently Learning:** AI Agents, MCP, Intelligent Test Orchestration  
-- 🤝 **Open To:** Corporate & Enterprise AI Testing Collaborations  
-- 💬 **Ask Me About:** Automation Strategy, Framework Design, AI in Testing  
+I am a **Module Lead – Quality Engineering** with a strong focus on **AI-powered test automation**.  
+I design **enterprise-grade automation systems** that reduce risk, accelerate delivery, and scale with modern AI-driven products.
+
+> I don’t just automate tests — I **engineer intelligent quality systems**.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🎯 Core Expertise
 
-### 💻 Languages & Frameworks
+### 🔥 Automation Architecture
+- Designing **scalable test automation frameworks** from scratch
+- Selenium (Java) & Playwright (TypeScript)
+- CI/CD-ready frameworks for enterprise pipelines
+- Cross-browser & cross-platform strategies
+
+### 🤖 AI in Quality Engineering
+- AI-assisted test case generation
+- Self-healing locators & smart selectors
+- AI-driven failure clustering & RCA
+- Intelligent test coverage optimization
+
+### 🧠 Leadership & Strategy
+- Module-level QA ownership
+- Automation roadmap planning
+- Risk-based testing strategies
+- Mentorship & technical reviews
+
+---
+
+## 🛠️ Technology Arsenal
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="40"/>
 </p>
 
-### 🧪 Test Automation
-- Selenium (Java)
-- Playwright (AI-Enhanced)
-- Cypress (Conceptual)
-- API Automation
-- BDD Frameworks
+---
 
-### 🧠 AI & Modern Testing
-- AI-Assisted Test Case Generation  
-- Self-Healing Locators  
-- Smart Test Coverage  
-- AI-Based Failure Analysis  
+## 🏆 Impact & Results (What Sets Me Apart)
 
-### 🗄️ Databases & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36"/>
-</p>
+- 🚀 **60–70% regression time reduction** through optimized automation
+- 📉 **40% defect leakage reduction** via intelligent test coverage
+- 🧩 Built automation frameworks used across **multiple teams**
+- 🤖 Introduced **AI concepts** into legacy test systems
+- 👥 Mentored engineers into **automation specialists**
 
 ---
 
-## 🏆 Professional Highlights
+## 📂 Flagship Projects
 
-- ✅ Designed **scalable automation frameworks** from scratch  
-- 🚀 Reduced regression cycle time by **60%+**  
-- 🧩 Led QA modules in **enterprise-grade applications**  
-- 🤖 Implemented **AI concepts into traditional automation**  
-- 👥 Mentored junior engineers & reviewers  
+### 🧪 Selenium Java Enterprise Framework
+**Enterprise-ready automation framework**
+- Page Object Model + Utilities
+- CI/CD & reporting integration
+- Scalable & maintainable architecture
 
----
-
-## 📂 Featured Projects
-
-### 🔹 Selenium Java Automation Framework
-> Enterprise-ready Selenium framework with reporting, CI integration & best practices.
-
-🔗 **Repo:** https://github.com/pratikraut840/Selenium-Java  
+🔗 https://github.com/pratikraut840/Selenium-Java
 
 ---
 
-### 🔹 Playwright AI Automation (In Progress 🚧)
-> Next-gen automation with AI-powered test intelligence.
+### 🤖 Playwright + AI Automation (Next-Gen)
+**AI-enhanced Playwright framework**
+- Smart selectors
+- AI-generated test flows
+- Failure intelligence (WIP)
 
-🔗 **Repo:** Coming Soon  
+🔗 *Coming Soon*
 
 ---
 
-## ✍️ Technical Writing & Knowledge Sharing
+## ✍️ Thought Leadership
 
-- 📝 Medium Articles on Automation & AI Testing  
-- 🎯 Focus on **real-world corporate QA challenges**
+I write about **real-world automation problems**, AI testing strategies, and enterprise QA challenges.
 
 🔗 https://medium.com/@pratikraut840
 
 ---
 
-## 🌐 Connect With Me
+## 🌍 Let’s Collaborate
 
-<p align="left">
-  <a href="https://github.com/pratikraut840">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32"/>
-  </a>
-  <a href="https://www.gitlab.com/pratikraut840">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32"/>
-  </a>
-  <a href="https://medium.com/@pratikraut840">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32"/>
-  </a>
-</p>
+I’m open to:
+- Corporate AI testing initiatives
+- Automation architecture consulting
+- Open-source AI QA tooling
+- Speaking & knowledge-sharing sessions
+
+📩 **Email:** pratikraut3308@gmail.com
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pratikraut840&show_icons=true&theme=dark"/>
@@ -126,4 +132,4 @@
 
 ---
 
-### ⭐ *"Quality is not tested in, it is engineered."*
+### 🧠 *“Quality at scale requires intelligence, not just automation.”*
