@@ -2,7 +2,7 @@
 
 # ✨ Pratik Raut
 
-### AI Automation Architect · Module Lead – Quality Engineering
+### AI Automation Architect | Module Lead – Quality Engineering
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1500&color=00D9FF&center=true&vCenter=true&width=600&lines=Engineering+Quality.+Scaling+Automation.+Infusing+AI." alt="Typing SVG" />
@@ -34,7 +34,7 @@
 
 </div>
 
-I'm a **Module Lead – Quality Engineering** specializing in **AI-powered test automation**. I architect enterprise-grade automation systems that **reduce risk**, **accelerate delivery**, and scale seamlessly with modern AI-driven products.
+I'm a **Module Lead Quality Engineer** specializing in **AI-powered test automation**. I architect enterprise-grade automation systems that **reduce risk**, **accelerate delivery**, and scale seamlessly with modern AI-driven products.
 
 <table>
 <tr>
@@ -125,8 +125,8 @@ I'm a **Module Lead – Quality Engineering** specializing in **AI-powered test 
 
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
-| **🧪 Selenium Java Enterprise Framework** | Enterprise-ready automation with POM, CI/CD & reporting | Java, Selenium, Maven | [View →](https://github.com/pratikraut840/Selenium-Java) |
-| **🤖 Playwright + AI Automation** | Next-gen AI-enhanced framework with smart selectors & failure intelligence | TypeScript, Playwright, AI | *Coming Soon* |
+| **🧪 Selenium Java Enterprise Framework** | Enterprise-ready automation with POM, CI/CD & reporting | Java, Selenium, Maven | *Coming Soon* |
+| **🤖 Playwright + AI Automation** | Next-gen AI-enhanced framework with smart selectors & failure intelligence | TypeScript, Playwright, AI | [View →]([View →](https://github.com/pratikraut840/Selenium-Java) |) |
 
 </div>
 
