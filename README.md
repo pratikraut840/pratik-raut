@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Pratik Raut
+# ✨ Pratik Raut ✨ 
 
 ### AI Automation Architect | Module Lead – Quality Engineering
 
@@ -126,7 +126,7 @@ I'm a **Module Lead Quality Engineer** specializing in **AI-powered test automat
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
 | **🧪 Selenium Java Enterprise Framework** | Enterprise-ready automation with POM, CI/CD & reporting | Java, Selenium, Maven | *Coming Soon* |
-| **🤖 Playwright + AI Automation** | Next-gen AI-enhanced framework with smart selectors & failure intelligence | TypeScript, Playwright, AI | [View →]([View →](https://github.com/pratikraut840/Selenium-Java) |) |
+| **🤖 Playwright + AI Automation** | Next-gen AI-enhanced framework with smart selectors & failure intelligence | TypeScript, Playwright, AI | ([View →](https://github.com/pratikraut840/Selenium-Java)) |
 
 </div>
 
