@@ -5,7 +5,7 @@
 ### AI Automation Architect | Module Lead – Quality Engineering
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1500&color=00D9FF&center=true&vCenter=true&width=600&lines=Engineering+Quality.+Scaling+Automation.+Infusing+AI." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1500&color=00D9FF&center=true&vCenter=true&width=600&lines=EEngineering+Quality.+Scaling+Automation.+Infusing+AI." alt="Typing SVG" />
 </p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=pratikraut840&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/pratikraut840)
